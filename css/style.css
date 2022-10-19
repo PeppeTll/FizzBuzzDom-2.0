@@ -1,0 +1,31 @@
+.bg_darkblue {
+    background-color: rgb(94, 109, 169);
+}
+
+.box {
+    width: 140px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    background-color: aqua;
+    font-size: 50px;
+    ;
+}
+
+.my_fs {
+    font-size: 100px;
+}
+
+.fizz {
+    background-color: rgb(0, 255, 68);
+}
+
+.buzz {
+    background-color: yellow;
+}
+
+.fizzbuzz {
+    background-color: red;
+}
